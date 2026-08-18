@@ -107,15 +107,7 @@ http://localhost:4173/
 
 # Screenshots
 
-## Home page
-
-![Result Dashboard Screenshot](https://via.placeholder.com/1200x700?text=VIT+Semester+Result+Dashboard)
-
-## Result Summary
-
-![Result Summary Screenshot](https://via.placeholder.com/1200x700?text=Subject+Wise+Marks+and+SPI)
-
-> Replace the placeholder screenshots with real screenshots from your project after running the app.
+<img width="1902" height="960" alt="Screenshot 2026-08-18 095447" src="https://github.com/user-attachments/assets/436ee2cc-e484-421e-8397-b93582219e20" />
 
 ---
 
