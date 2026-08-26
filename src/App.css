@@ -20,6 +20,13 @@
   color: #7c8fb5;
 }
 
+.creator-line {
+  margin: 10px 0 0;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: #334155;
+}
+
 .topbar h1 {
   margin: 0;
   font-size: clamp(2rem, 4vw, 3.2rem);
@@ -113,6 +120,20 @@ input:focus {
 
 .status-card strong {
   color: #0f766e;
+}
+
+.app-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  margin-top: 28px;
+  padding: 18px 22px;
+  border-radius: 16px;
+  background: linear-gradient(135deg, #eff6ff, #eef2ff);
+  color: #1f2937;
+  font-weight: 700;
+  border: 1px solid rgba(148, 163, 184, 0.2);
 }
 
 .section-heading {

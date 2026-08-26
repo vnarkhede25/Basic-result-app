@@ -75,6 +75,7 @@ function App() {
         <div>
           <p className="eyebrow">VIT University</p>
           <h1>Semester Result Dashboard</h1>
+          <p className="creator-line">Vaishnavi Narkhede | Roll No. 48</p>
         </div>
         <div className="student-chip">{student.semester}</div>
       </header>
@@ -181,6 +182,11 @@ function App() {
           </div>
         </section>
       </main>
+
+      <footer className="app-footer">
+        <span>Vaishnavi Narkhede</span>
+        <span>Roll No. 48</span>
+      </footer>
     </div>
   )
 }
