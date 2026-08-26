@@ -106,7 +106,8 @@ http://localhost:4173/
 ---
 
 ## Screenshots
-
+<img width="1016" height="503" alt="image" src="https://github.com/user-attachments/assets/0cc42a37-0608-4beb-8132-ed5a98ef2c7f" />
+<img width="1021" height="507" alt="image" src="https://github.com/user-attachments/assets/1c836098-b138-4b75-a5cb-bd2c171fbff6" />
 
 ---
 
