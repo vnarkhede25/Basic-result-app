@@ -1,4 +1,4 @@
-# Aim
+## Aim
 
 This project is designed to help VIT students calculate and view their semester result in a simple, responsive, and user-friendly web application. The system includes four subjects and calculates the final score using the required formula:
 
@@ -10,11 +10,11 @@ The website also displays the overall grade, average percentage, SPI, and pass/f
 
 ---
 
-# VIT Semester Result Dashboard
+## VIT Semester Result Dashboard
 
 A clean and responsive result management website built with React and Vite for academic result preparation.
 
-## Features
+### Features
 
 - Student details form
 - Four course subjects
@@ -27,22 +27,22 @@ A clean and responsive result management website built with React and Vite for a
 
 ---
 
-# Tech Stack
+## Tech Stack
 
-## Frontend
+### Frontend
 - React 19
 - Vite 8
 - JavaScript
 - CSS3
 
-## Tools Used
+### Tools Used
 - Node.js
 - npm
 - Git
 
 ---
 
-# Requirements
+## Requirements
 
 Before running this project, ensure the following are installed:
 
@@ -53,7 +53,7 @@ Before running this project, ensure the following are installed:
 
 ---
 
-# Versions
+## Versions
 
 - React: 19.2.8
 - React DOM: 19.2.8
@@ -63,7 +63,7 @@ Before running this project, ensure the following are installed:
 
 ---
 
-# Project Structure
+## Project Structure
 
 ```bash
 vit-result-app/
@@ -82,7 +82,7 @@ vit-result-app/
 
 ---
 
-# Installation and Run
+## Installation and Run
 
 1. Open the terminal in the project folder.
 2. Install dependencies:
@@ -105,21 +105,12 @@ http://localhost:4173/
 
 ---
 
-# Screenshots
+## Screenshots
 
-## Home page
-
-![Result Dashboard Screenshot](https://via.placeholder.com/1200x700?text=VIT+Semester+Result+Dashboard)
-
-## Result Summary
-
-![Result Summary Screenshot](https://via.placeholder.com/1200x700?text=Subject+Wise+Marks+and+SPI)
-
-> Replace the placeholder screenshots with real screenshots from your project after running the app.
 
 ---
 
-# Result Formula
+## Result Formula
 
 ```text
 Final Marks = (MSE × 0.30) + (ESE × 0.70)
@@ -134,15 +125,6 @@ Final = (40 × 0.30) + (68 × 0.70)
       = 12 + 47.6
       = 59.6
 ```
-
----
-
-# Author
-
-VIT Student Result Dashboard Project
-
----
-
-# Note
+## Note
 
 This project is created for educational and academic demonstration purposes. It can be extended with backend integration, database storage, and PDF report generation in future versions.
